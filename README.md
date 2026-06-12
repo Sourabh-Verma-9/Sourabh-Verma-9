@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Sourabh Verma 👋
 
-<!--
-**Sourabh-Verma-9/Sourabh-Verma-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer with 2+ years of experience building scalable microservices using Java, Spring Boot, PostgreSQL and CI/CD practices.
+Currently learning Kubernetes, OpenTelemetry and Cloud Native technologies.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud Native Technologies
+- Kubernetes
+- OpenTelemetry
+- Distributed Systems
+- Open Source Contributions
+
+## 💻 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+- PostgreSQL
+
+### DevOps & Cloud
+- Docker
+- Jenkins
+- CI/CD
+- GitHub Actions (Learning)
+- Kubernetes (Learning)
+
+### Observability
+- Grafana
+- ELK
+- Dynatrace
+- OpenTelemetry (Learning)
+
+### Testing
+- JUnit
+- Mockito
+- Spock Framework
+
+## 📈 Experience
+
+- FinTech Loan Processing Systems
+- Telecom Network Automation (ONAP CPS)
+- Microservices Architecture
+- Backend API Development
+
+## 🎯 2026 Goals
+
+- Contribute to OpenTelemetry
+- Learn Kubernetes deeply
+- Build Production-grade Cloud Native Projects
+- Become a Platform-Aware Backend Engineer
